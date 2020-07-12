@@ -1,5 +1,8 @@
 ## Write The Code Below
-## To Test run python test_variables.py
+"""
+To Run Use Command Below
+pytest variables --tb=no
+"""
 
 """
 1. Create A Variable `name` & Assign The Your Name To It
